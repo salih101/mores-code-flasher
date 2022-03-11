@@ -24,3 +24,5 @@ Clone this repo and Run it From VS CODE
 
 ## How to Run
 Build apk by Enter 'flutter build apk' cammand in the terminal
+
+[Link To Download](https://www.google.com/drive/)
