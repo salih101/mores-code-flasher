@@ -1,16 +1,26 @@
-# morse
+# MORSE CODE FLASHER
 
-A new Flutter project.
+When we write a text then the flashlight should be seen according to the mores code of the text we have written.
 
-## Getting Started
+## Team members
+1. Muhammed Salih [https://github.com/salih101/]
+2. Nihad Abdul Nazar [https://github.com/nihad/]
 
-This project is a starting point for a Flutter application.
+## Team Id
+Flutter / 62
 
-A few resources to get you started if this is your first Flutter project:
+## Link to product walkthrough
+[https://www.loom.com/share/a27183c3eb21465888e765078d36d8a4]
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## How it Works ?
+1. Convert Entered String to Corresponding Morse code
+2. Blink Flashlight Based on the Morse Code By specific Latency
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Libraries used
+torch_light: ^0.4.0
+
+## How to configure
+Clone this repo and Run it From VS CODE
+
+## How to Run
+Build apk by Enter 'flutter build apk' cammand in the terminal
