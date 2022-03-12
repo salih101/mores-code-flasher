@@ -17,7 +17,7 @@ Flutter / 62
 2. Blink Flashlight Based on the Morse Code By specific Latency
 
 ## Libraries used
-torch_light: ^0.4.0
+torch_light: 0.4.0
 
 ## How to configure
 Clone this repo and Run it From VS CODE
