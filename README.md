@@ -4,7 +4,7 @@ When we write a text then the flashlight should be seen according to the mores c
 
 ## Team members
 1. Muhammed Salih [https://github.com/salih101/]
-2. Nihad Abdul Nazar [https://github.com/nihad/]
+2. Nihad Abdul Nazar [https://github.com/NihadAbdulNazar/]
 
 ## Team Id
 Flutter / 62
